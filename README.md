@@ -1,6 +1,6 @@
 # Hello everyone,
 
-I work as a Business Innovation Analyst at PepsiCo, in my spare time I work on some some open-source web development projects. Some of my hobbies are skiing, running, and playing guitar.
+I work as a Business Innovation Analyst at PepsiCo, in my spare time I work on some open-source web development projects. Some of my hobbies are skiing, running, and playing guitar.
 
 Check out my [blog](https://blog.robino.dev) to see my latest articles on web technologies and more.
 
