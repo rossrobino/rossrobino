@@ -6,6 +6,7 @@ Check out my [blog](https://blog.robino.dev) and [YouTube channel](https://www.y
 
 Here are a few examples of my open-source work.
 
--   [ovr](https://ovr.robino.dev) is a lightweight server framework built for streaming with asynchronous generator JSX.
--   [domco](https://domco.robino.dev) is a library that turns your [Vite](https://vitejs.dev) project into a full-stack application. You can take advantage of Vite’s build pipeline, plugins, and HMR on the server using web APIs.
--   [drab](https://drab.robino.dev) is a custom element library that provides interactive UI components that can be used in any framework. It progressively enhances HTML, providing extra functionality like animations for the [dialog element](https://drab.robino.dev/docs/dialog), or [prefetching for anchor tags](https://drab.robino.dev/docs/prefetch).
+- [ovr](https://ovr.robino.dev) is a lightweight server framework built for streaming with asynchronous generator JSX.
+- [drab](https://drab.robino.dev) provides interactive UI elements that can be used in any framework. It progressively enhances HTML, providing extra functionality such as [controls for the textarea element](https://drab.robino.dev/elements/editor/), or [prefetching for anchor tags](https://drab.robino.dev/elements/prefetch/).
+- [domco](https://domco.robino.dev) turns your [Vite](https://vitejs.dev) project into a full-stack application. You can take advantage of Vite’s build pipeline, and plugins on the server using web APIs.
+- [Contributed](https://github.com/withastro/astro/pull/9644) the client prerendering feature to [Astro](https://astro.build/blog/astro-420/) implementing the [Speculation Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API).
